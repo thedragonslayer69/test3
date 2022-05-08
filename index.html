@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>first page</title>
+    </head>
+    <body>
+        <h3><br><b>
+            You’re walking your dog, Rufus, and see an abandoned house. Do you:
+
+  
+        </h3></br></b>
+        <br><a href="7.html">Explore </a></br>
+        <br><a href="4.html"> Walk away </a></br>
+        <br><a href="10.html"> Let Rufus decide </a></br>
+        
+    </body>
+</html>
